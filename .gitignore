@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset (do NOT upload images)
+dataset/
+backend/dataset/
+
+# Virtual environment
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
